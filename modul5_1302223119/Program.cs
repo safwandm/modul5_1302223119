@@ -2,4 +2,16 @@
 
 using modul5_1302223119;
 
-Penjumlahan.JumlahTigaAngka(13.0, 02.0, 22.0);
+
+Console.WriteLine("Generic method:");
+Penjumlahan.JumlahTigaAngka<long>(13, 02, 22);
+
+
+Console.WriteLine("\nGeneric class:");
+SimpleDataBase<long> db = new SimpleDataBase<long>();
+
+db.addNewData(13);
+db.addNewData(02);
+db.addNewData(22);
+
+db.printAllData();
