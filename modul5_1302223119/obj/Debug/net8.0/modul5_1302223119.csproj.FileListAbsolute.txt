@@ -12,3 +12,4 @@ D:\modul5_1302223119\modul5_1302223119\obj\Debug\net8.0\refint\modul5_1302223119
 D:\modul5_1302223119\modul5_1302223119\obj\Debug\net8.0\modul5_1302223119.pdb
 D:\modul5_1302223119\modul5_1302223119\obj\Debug\net8.0\modul5_1302223119.genruntimeconfig.cache
 D:\modul5_1302223119\modul5_1302223119\obj\Debug\net8.0\ref\modul5_1302223119.dll
+D:\modul5_1302223119\modul5_1302223119\obj\Debug\net8.0\modul5_1302223119.sourcelink.json
